@@ -8,10 +8,14 @@ das principais loterias do país.
 
 ## Class Loteria
 
-A classe Loteria possui as funões principais para 
-
-
-This is a simple example package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content
-
+A classe Loteria possui as funões principais para recuperar os sorteios da:
+* mega-sena
+* quina
+* lotofacil
+* lotomania
+* dupla-sena
+* timemania
+* dia-de-sorte
+* loteca
+* loteria-federal
+* lotogol
