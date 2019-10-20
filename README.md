@@ -8,7 +8,7 @@ das principais loterias do país.
 
 ## Class Loteria
 
-A classe Loteria possui as funões principais para recuperar os sorteios da:
+A classe Loteria possui as funções para recuperar os sorteios da:
 * mega-sena
 * quina
 * lotofacil
